@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHC.Website.V3", "CMHC.Website.V3\CMHC.Website.V3.csproj", "{C8084123-C7A7-4406-BB67-17EEBE8CFD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMHC.Website.Shared", "CMHC.Website.Shared\CMHC.Website.Shared.csproj", "{DBA55CC8-77FC-4311-8954-420DA3A69523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8084123-C7A7-4406-BB67-17EEBE8CFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8084123-C7A7-4406-BB67-17EEBE8CFD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8084123-C7A7-4406-BB67-17EEBE8CFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8084123-C7A7-4406-BB67-17EEBE8CFD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA55CC8-77FC-4311-8954-420DA3A69523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA55CC8-77FC-4311-8954-420DA3A69523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA55CC8-77FC-4311-8954-420DA3A69523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA55CC8-77FC-4311-8954-420DA3A69523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7DD667F-CE54-444C-BF59-8334CB0962E6}
+	EndGlobalSection
+EndGlobal
